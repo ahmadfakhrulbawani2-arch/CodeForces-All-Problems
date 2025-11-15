@@ -1,0 +1,1 @@
+{"name":"Local: beautiful-tree","url":"d:\\Kerjaan Coolyeah\\1. Source Code\\CodeForcesUsingC\\beautiful-tree.c","tests":[{"id":1760714405704,"input":"3\n2\n3\n4\n","output":"-1\n1 3\n2 3\n1 2\n3 1\n4 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kerjaan Coolyeah\\1. Source Code\\CodeForcesUsingC\\beautiful-tree.c","group":"local","local":true}
