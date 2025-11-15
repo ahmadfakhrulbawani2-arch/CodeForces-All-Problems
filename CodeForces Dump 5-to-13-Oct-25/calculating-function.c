@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    long long n;
+    scanf("%lld", &n);
+    long long result = 0;
+    if(n % 2 == 0) {
+        result = n / 2;
+    } else {
+        result = (n - 1) / 2;
+        result -= n;
+    }
+
+    printf("%lld", result);
+    return 0;
+}
+
