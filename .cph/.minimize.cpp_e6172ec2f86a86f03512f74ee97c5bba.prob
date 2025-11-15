@@ -1,0 +1,1 @@
+{"name":"Local: minimize","url":"d:\\Kerjaan Coolyeah\\1. Source Code\\CodeForcesUsingC\\minimize.cpp","tests":[{"id":1760529730094,"input":"3\n1 2\n3 10\n5 5\n","output":"1\n7\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kerjaan Coolyeah\\1. Source Code\\CodeForcesUsingC\\minimize.cpp","group":"local","local":true}
