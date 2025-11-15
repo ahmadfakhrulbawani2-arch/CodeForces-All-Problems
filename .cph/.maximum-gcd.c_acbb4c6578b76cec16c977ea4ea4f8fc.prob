@@ -1,0 +1,1 @@
+{"name":"Local: maximum-gcd","url":"d:\\Kerjaan Coolyeah\\1. Source Code\\CodeForcesUsingC\\maximum-gcd.c","tests":[{"id":1760717512149,"input":"2\n3\n5\n","output":"1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kerjaan Coolyeah\\1. Source Code\\CodeForcesUsingC\\maximum-gcd.c","group":"local","local":true}
