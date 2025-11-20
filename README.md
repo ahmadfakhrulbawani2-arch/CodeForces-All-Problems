@@ -43,6 +43,9 @@ CodeForces-All-Problems/
 |-- CodeForces-Dump-30-Oct-to-6-Nov-2025/
 |   |-- ...
 |
+|-- CodeForces-November-2025-Dump
+|   |-- ...
+|
 |-- Media/
 |   |-- (contains esential files for this repo)
 |
