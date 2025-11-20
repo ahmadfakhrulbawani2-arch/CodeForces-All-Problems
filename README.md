@@ -31,6 +31,10 @@ See my codeforces profile here: </br>
 
 ```txt
 CodeForces-All-Problems/
+|
+|-- .cph/
+|   |-- (All of cph test case)
+|
 |-- CodeForces Dump 5-to-13-Oct-25/
 |   |-- ...
 |
@@ -67,6 +71,14 @@ gcc nama_file.c -o program
 g++ nama_file.cpp -o program
 ./program
 ```
+
+## CPH Test Case
+So I use Competitive Programming Helper (CPH) to help me check the test case given from codeforces. This CPH test case located in .cph/ directory. </br>
+You can download the repository by going to -> VsCode Extensions -> search & download this: 
+```txt
+divyanshuagrawal.competitive-programming-helper
+```
+Btw this is only in VsCode Editor.
 
 ---
 
