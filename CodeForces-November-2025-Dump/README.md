@@ -6,12 +6,12 @@ Operating program instruction:
     - for C:
 gcc <file-name>.c -o <file-name>.exe
 ```
-```bash
+```txt
     - for C++:
 gcc <file-name>.cpp -o <file-name>.exe
 ```
 2. Running the program
-```bash
+```txt
 .\<file-name>.exe
 ```
 
