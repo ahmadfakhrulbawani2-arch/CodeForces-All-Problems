@@ -29,7 +29,7 @@ See my codeforces profile here: </br>
 
 ## Directory Structure
 
-```txt
+```md
 CodeForces-All-Problems/
 |
 |-- .cph/
@@ -45,6 +45,9 @@ CodeForces-All-Problems/
 |   |-- ...
 |
 |-- CodeForces-Dump-30-Oct-to-6-Nov-2025/
+|   |-- ...
+|
+|-- CodeForces-November-2025-Dump/
 |   |-- ...
 |
 |-- Media/
