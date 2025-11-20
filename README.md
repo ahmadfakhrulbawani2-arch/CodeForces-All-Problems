@@ -29,7 +29,7 @@ See my codeforces profile here: </br>
 
 ## Directory Structure
 
-```txt
+```md
 CodeForces-All-Problems/
 |-- CodeForces Dump 5-to-13-Oct-25/
 |   |-- ...
