@@ -23,7 +23,7 @@ This repository Contains a collection of Codeforces solutions that I work on and
 
 See my codeforces profile here: </br>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/ahmadfakhrulbawani2)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/Fakhrul_91)
 
 ---
 
@@ -95,7 +95,8 @@ I hope this repo is beneficial for all of you guys. Thank you for viewing and Ke
 
 ##### Author: [Ahmad Fakhrul Bawani](https://github.com/ahmadfakhrulbawani2-arch)  
 
-<p align="right">
+[<img src="media/profil-github.jpg" alt="Codeforces" width="100">](https://github.com/ahmadfakhrulbawani2-arch)
+<p align="left">
   <img src="https://img.shields.io/github/last-commit/ahmadfakhrulbawani2-arch/CodeForces-All-Problems?style=for-the-badge&color=brightgreen" alt="Last Commit">
 </p>
 
