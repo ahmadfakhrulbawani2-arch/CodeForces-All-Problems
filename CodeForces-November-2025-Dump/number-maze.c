@@ -89,6 +89,26 @@ Sometimes I forgot to change the link. Sorry
 
 */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*          ASCII TABLEE                
 
 Kode     Hex     Char     Nama
